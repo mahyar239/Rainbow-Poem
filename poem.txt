@@ -3,5 +3,7 @@ black
 green
 yellow
 red
+unicorn
 blue
 these are the colors of the rainbow
+and the unicorn.
