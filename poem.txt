@@ -1,6 +1,7 @@
 The rainboew
 black 
 green
+yellow
 red
 blue
 these are the colors of the rainbow
